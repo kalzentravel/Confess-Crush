@@ -2,9 +2,9 @@ const CONFIG = {
     titleWeb: "Happy 20/10",
     introTitle: 'Xin chào Xiu Chen',
     introDesc: `Ngày Phụ nữ Việt Nam 20/10 là ngày đặc biệt dành cho em. Chúc em một ngày 20/10 đầy ắp niềm vui và hạnh phúc.`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^Cảm ơn anh^^',
     title: 'Anh hỏi em phải trả lời thật lòng nhé 🥰',
-    desc: 'Anh có thích anh không ???? ',
+    desc: 'Em có thích anh không ???? ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Ơ Thích thật à, thế có Yêu không <3',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/photo/?fbid=4202551506519144&set=a.129582783816057' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/photo/?fbid=4394430770664549' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
